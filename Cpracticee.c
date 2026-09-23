@@ -4,7 +4,8 @@ int main() {
     scanf("%d", &a)
 
     if(a <= 1000000)
-    { printf("welcome to dongchul world
+    { printf("welcome to dongchul world i love you
+        
         "); }
     else
     { printf("dongchul world is too big\n"); }
